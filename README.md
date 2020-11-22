@@ -8,8 +8,8 @@ Files:   recur-medicare.sas (Lung/Colorectal cancer: Medicare data)
             recur-vdw-breast.sas (Breast cancer: VDW data)
 
 Authors:   Hajime Uno (email: huno@ds.dfci.harvard.edu)
-                 Angel Cronin (email: acronin@corrona.org)
-                 Nikki Carroll (email: Nikki.M.Carroll@kp.org)
+           Angel Cronin (email: acronin@corrona.org)
+           Nikki Carroll (email: Nikki.M.Carroll@kp.org)
 		   
 Version:   1.00
 
