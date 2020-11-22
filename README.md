@@ -1,7 +1,7 @@
 # SAS program for the RECUR algorithm
 
 
-Project:   RECUR --- new algorithms for identifying cancer recurrence.
+Project:  RECUR
 
 Files:   recur-medicare.sas (Lung/Colorectal cancer: Medicare data)
             recur-vdw.sas (Lung/Colorectal cancer: VDW data)
@@ -38,8 +38,11 @@ Copyright: (C) 2020, Michael Hassett and Debra Ritzwoller's joint research
            (email: Michael_Hassett@DFCI.HARVARD.EDU) 
            
 # References
-Hassett MJ, Uno H, Cronin AM, Carroll N, Hornbrook M, Ritzwoller D. Detecting Lung and Colorectal Cancer Recurrence Using Structured Clinical/Administrative Data to Enable Outcomes Research and Population Health Management, Medical Care. 2017; 55(12):e88-e98. PMC4732933
+<ul>
+<li>Hassett MJ, Uno H, Cronin AM, Carroll N, Hornbrook M, Ritzwoller D. Detecting Lung and Colorectal Cancer Recurrence Using Structured Clinical/Administrative Data to Enable Outcomes Research and Population Health Management, Medical Care. 2017; 55(12):e88-e98. </li>
 
-Ritzwoller DP, Hassett MJ, Uno H, Cronin AM, Carroll NM, Hornbrook MC, Kushi LC. Development, Validation, and Dissemination of a Breast Cancer Recurrence Detection and Timing Informatics Algorithm. JNCI. 2018; 110(3), djx200.
+<li>Ritzwoller DP, Hassett MJ, Uno H, Cronin AM, Carroll NM, Hornbrook MC, Kushi LC. Development, Validation, and Dissemination of a Breast Cancer Recurrence Detection and Timing Informatics Algorithm. JNCI. 2018; 110(3), djx200.</li>
 
-Uno H, Ritzwoller DP, Cronin AM, Carroll NM, Hornbrook MC, Hassett MJ. Determining the Time of Cancer Recurrence Using Claims or Electronic Medical Record Data. JCO Clinical Cancer Informatics. 2018; (2):1-10.
+<li>Uno H, Ritzwoller DP, Cronin AM, Carroll NM, Hornbrook MC, Hassett MJ. Determining the Time of Cancer Recurrence Using Claims or Electronic Medical Record Data. JCO Clinical Cancer Informatics. 2018; (2):1-10.</li>
+</ul>
+
