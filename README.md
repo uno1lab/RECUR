@@ -3,13 +3,19 @@
 
 Project:  RECUR
 
-Files:   recur-medicare.sas (Lung/Colorectal cancer: Medicare data)
-            recur-vdw.sas (Lung/Colorectal cancer: VDW data)
-            recur-vdw-breast.sas (Breast cancer: VDW data)
+Files:   
+<ul> 
+<li>recur-medicare.sas (Lung/Colorectal cancer: Medicare data)</li>
+<li>recur-vdw.sas (Lung/Colorectal cancer: VDW data)</li>
+<li>recur-vdw-breast.sas (Breast cancer: VDW data)</li>
+</ul> 
 
-Authors:   Hajime Uno (email: huno@ds.dfci.harvard.edu)
-           Angel Cronin (email: acronin@corrona.org)
-           Nikki Carroll (email: Nikki.M.Carroll@kp.org)
+Authors:   
+<ul> 
+<li>Hajime Uno (email: huno@ds.dfci.harvard.edu)</li>
+<li>Angel Cronin (email: acronin@corrona.org)</li>
+<li>Nikki Carroll (email: Nikki.M.Carroll@kp.org)</li>
+</ul> 
 		   
 Version:   1.00
 
