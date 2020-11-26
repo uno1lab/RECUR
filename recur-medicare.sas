@@ -3,7 +3,8 @@
 
 Project:   RECUR
 
-           A new algorithm for identifying cancer recurrence.
+           A new algorithm for identifying cancer recurrence case and 
+           timing
 
 File:      recur-medicare.sas
 Authors:   Hajime Uno, Angel Cronin, Nikki Carroll 
@@ -15,24 +16,7 @@ Copyright: (C) 2020, Michael Hassett and Debra Ritzwoller's joint research
            group at Dana-Farber Cancer Institute and Kaiser Permanente 
            Colorado.
 
-           This software is free for non-commercial use. It may be copied,
-           modified, and redistributed provided that this copyright notice
-           is preserved on all copies. The intellectual property rights of
-           the algorithms used reside with Dana-Farber Cancer Institute, 
-           Michael Hassett's research group. 
-           
-           You may not use this software, in whole or in part, in support
-           of any commercial product without the express consent of the
-           author.
-
-           There is no warranty or other guarantee of fitness of this
-           software for any purpose. It is provided solely "as is".
-           
-           If you are pursuing commercial software development that 
-           incorporates our software please contact Michael Hassett for
-           information on licensing. 
-           (email: Michael_Hassett@DFCI.HARVARD.EDU) 
-
+License:   GPL-2
 ===========================================================================
 */
 *------start of: macro 1: getpeak--------------------------;
