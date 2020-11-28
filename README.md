@@ -17,12 +17,11 @@ Authors:
 <li>Nikki Carroll (email: Nikki.M.Carroll@kp.org)</li>
 </ul> 
 		   
-Version:   1.00
+Version:   1.0
 
 Date:  26th November 2020
 
-Copyright: (C) 2020, Michael Hassett and Debra Ritzwoller's joint research group at Dana-Farber Cancer Institute and Kaiser Permanente Colorado.
-This software is free for non-commercial use. 
+Copyright (C) 2020, Michael Hassett and Debra Ritzwoller's joint research group at Dana-Farber Cancer Institute and Kaiser Permanente Colorado.
 
 License: GNU GPL-2. If you are pursuing commercial software development that incorporates our software please contact Michael Hassett for information on licensing. (email: Michael_Hassett@DFCI.HARVARD.EDU) 
            
