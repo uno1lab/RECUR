@@ -89,13 +89,6 @@ License:   GPL-2
 	%let w4=0.104;			* mastectomy;
 	%let w5=0.113;			* observation;
 
-	* phase 3, regression coefficients;
-	%let ph3b0=-1.198822903;
-	%let ph3b1=2.2839164;
-	%let ph3b2=2.375099222;
-	%let ph3b3=1.264097188;
-	%let ph3b4=1.738575672;
-
 *--apply blackout windows for treatment (chemotherapy, radiation, and mastectomy);
 	data afterblackout;
 	 set &inputdata.;
